@@ -3,6 +3,7 @@
 🎯 Desenvolvedor Front-end Júnior em transição de carreira, buscando minha primeira oportunidade na área de tecnologia.
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas (Universidade Nove de Julho)
+
 📚 Estudando ativamente através de cursos
 💻 Praticando HTML, CSS e JavaScript em projetos reais
 
