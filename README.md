@@ -27,7 +27,7 @@ Confira meus repositórios fixados abaixo — cada um tem seu próprio README co
 ### 📫 Contato
 
 - 📧 viniciuspaulo14@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/paulo-vinicius-desenvolvedor/)
+- 💼  [LinkedIn](https://www.linkedin.com/in/paulo-vinicius-desenvolvedor/)
 - 📍 Mauá, São Paulo
 
 ---
