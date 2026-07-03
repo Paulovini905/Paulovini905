@@ -2,7 +2,11 @@
 
 🎯 Desenvolvedor Front-end Júnior em transição de carreira, buscando minha primeira oportunidade na área de tecnologia.
 
-<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/8c78c0a6-1436-40e3-a006-51d02fda236c" />
+🎓 Formado em Análise e Desenvolvimento de Sistemas (Universidade Nove de Julho)
+
+📚 Estudando ativamente novas tecnologias e boas práticas de desenvolvimento
+
+💻 Praticando HTML, CSS e JavaScript em projetos reais
 
 ---
 
